@@ -1,0 +1,17 @@
+
+And with just a few minutes of effort, we’re already getting somewhere!
+
+
+That’s it! In just a few minutes, you created your own free website for your business, blog, or even your very own free portfolio site, hosted it through a GitHub repository, and it’s already up and running. You’re ready to share with the world!
+
+Way to go!!!
+
+Just a couple of notes:
+
+* If you decide that you don’t want to use a theme after all, there’s no button to go back to the original version. It’s actually totally easy to get rid of your theme, though! If you go back to your repository, you’ll discover that you now have a file called “_config.yml” which contains your theme information. If you delete that file, you delete the theme!
+
+* If you want to play around with your theme and theme options, you’ll find that the “_config.yml” file is your first stop. Now that you know that, take a look at the zillions of other Jekyll options that you have! You can even start with the Jekyll Now theme if you want a simple and already set-up blog. Your options are endless!
+
+I can’t wait to see what you create! As always, if you make anything amazing with this information, let everyone know about it in the comments below or reach out any time on Twitter @annebonnerdata. Feel free to share your free portfolios and blogs here for everyone to see!
+
+Thanks for reading!
