@@ -1,17 +1,37 @@
+## Welcome to GitHub Pages
 
-And with just a few minutes of effort, we’re already getting somewhere!
+You can use the [editor on GitHub](https://github.com/phongdh1/sharing_experience/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-That’s it! In just a few minutes, you created your own free website for your business, blog, or even your very own free portfolio site, hosted it through a GitHub repository, and it’s already up and running. You’re ready to share with the world!
+### Markdown
 
-Way to go!!!
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-Just a couple of notes:
+```markdown
+Syntax highlighted code block
 
-* If you decide that you don’t want to use a theme after all, there’s no button to go back to the original version. It’s actually totally easy to get rid of your theme, though! If you go back to your repository, you’ll discover that you now have a file called “_config.yml” which contains your theme information. If you delete that file, you delete the theme!
+# Header 1
+## Header 2
+### Header 3
 
-* If you want to play around with your theme and theme options, you’ll find that the “_config.yml” file is your first stop. Now that you know that, take a look at the zillions of other Jekyll options that you have! You can even start with the Jekyll Now theme if you want a simple and already set-up blog. Your options are endless!
+- Bulleted
+- List
 
-I can’t wait to see what you create! As always, if you make anything amazing with this information, let everyone know about it in the comments below or reach out any time on Twitter @annebonnerdata. Feel free to share your free portfolios and blogs here for everyone to see!
+1. Numbered
+2. List
 
-Thanks for reading!
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phongdh1/sharing_experience/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
